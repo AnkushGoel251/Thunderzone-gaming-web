@@ -3,7 +3,7 @@
 <?php
 $server="localhost";
 $username="root";
-$password="Ankshi#251";
+$password="Ankush";
 $database="game_web";
 $conn=mysqli_connect($server,$username,$password,$database,"8111");
 
